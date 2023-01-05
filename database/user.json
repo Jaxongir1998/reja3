@@ -1,0 +1,20 @@
+{
+    "name": "Steve",
+    "profession": "Software Engineer",
+    "age": 20,
+    "resident": "S.Korea",
+    "adress": "S.Korea, Cheonan",
+    "languages": ["uzbek", "korean", "English"],
+    "skills": ["html", "css", "Js", "NodeJs", "Python"],
+    "extra_skills": ["Bootstrap, Materialize", "Styling, Sass", "Django, Flask", "GET Knowledge" ],
+    "work_place": "IT Company",
+    "service_desc": "Amel minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat",
+    "about_me": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "city": "Denau",
+    "title": ["Flowers", "Seedlings", "Gardner", "OLd", "new"],
+    "flower_desc": ["What is a Flowers", "What is a Seedlings?"],
+    "flowers_name": ["Tulip", "Daffodill", "Poppy", "Sunflower"],
+    "flowers_price":["15$", "25$", "45$", "35$"],
+    "famous_words": ["World is Beautiful with Flowers"],
+    "famous_name": ["Steve Jobs"]
+}
